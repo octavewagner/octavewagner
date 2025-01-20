@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to my GitHub
 
-<!--
-**octavewagner/octavewagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Octave, working on Data Analysis.
 
-Here are some ideas to get you started:
+I am passionate about data science, market research, and sport such as running. You will find here my projects and achievements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I work mainly with Python, R, SQL and data visualization tools such as Tableau and PowerBi.
+
+👨🏾‍🏫 To see my projects : 
+
+📫 To connect with me : https://www.linkedin.com/in/octave-wagner-460542212/
+
+💬 To send me an e-mail : octave.wagner@gmail.com
+
