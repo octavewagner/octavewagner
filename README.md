@@ -6,7 +6,7 @@ I am passionate about data science, market research, and sport such as running. 
 
 📊 I work mainly with Python, R, SQL and data visualization tools such as Tableau and PowerBi.
 
-👨🏾‍🏫 To see my projects : 
+👨🏾‍🏫 To see my projects : https://github.com/octavewagner/OctaveWagner-portfolio
 
 📫 To connect with me : https://www.linkedin.com/in/octave-wagner-460542212/
 
